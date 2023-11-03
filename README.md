@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smith-ax
 - 👀 I’m interested in art, finance, tech, and history
 - 🌱 I’m currently learning data visualization, data science, and automation
-- 💞️ I’m looking to collaborate on immproving projects and learning more in the process
+- 💞️ I’m looking to collaborate on improving projects and learning more in the process
 - 📫 <!-- Clickable link that opens a new tab with the LinkedIn profile --><a href="https://www.linkedin.com/in/alexander-smith-01b6a91a1/" target="_blank">Visit LinkedIn Profile</a>
 
 </body>
